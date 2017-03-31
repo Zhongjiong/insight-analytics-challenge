@@ -1,0 +1,1 @@
+# insight-analytics-challenge
